@@ -4,7 +4,7 @@ import (
 	"time"
 )
 
-import l4g "github.com/limetext/log4go"
+import l4g "github.com/jxo/log4go"
 
 func main() {
 	log := l4g.NewLogger()

@@ -1,6 +1,6 @@
 package main
 
-import l4g "github.com/limetext/log4go"
+import l4g "github.com/jxo/log4go"
 
 func main() {
 	// Load the configuration (isn't this easy?)
